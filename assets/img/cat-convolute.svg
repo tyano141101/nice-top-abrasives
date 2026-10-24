@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eef3f9"/>
+  <g>
+    <ellipse cx="400" cy="330" rx="260" ry="46" fill="#000000" opacity="0.08"/>
+    <circle cx="400" cy="250" r="190" fill="#e8dcc4"/>
+    <circle cx="400" cy="250" r="190" fill="none" stroke="#d9c9a6" stroke-width="10"/>
+    <circle cx="400" cy="250" r="118" fill="#d9c9a6"/>
+    <circle cx="400" cy="250" r="118" fill="none" stroke="#c8b48c" stroke-width="6"/>
+    <circle cx="400" cy="250" r="58" fill="#eef3f9"/>
+    <circle cx="400" cy="250" r="58" fill="none" stroke="#b9c6d6" stroke-width="4"/>
+    <circle cx="400" cy="250" r="190" fill="none" stroke="#c8b48c" stroke-width="2" stroke-dasharray="4 10"/>
+  </g>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#0c2b4d">Convolute Wheel</text>
+</svg>
